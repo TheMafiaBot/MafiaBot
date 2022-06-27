@@ -70,7 +70,7 @@ sqlalchemy
 telegraph
 twitter_scraper
 # telethon
-git+https://github.com/LonamiWebs/Telethon/tree/v1.24
+git+https://github.com/LonamiWebs/Telethon@v1.24
 html-telegraph-poster
 urbandict
 validators
