@@ -69,7 +69,8 @@ spotdl
 sqlalchemy 
 telegraph
 twitter_scraper
-telethon
+# telethon
+git+https://github.com/LonamiWebs/Telethon/tree/v1.24
 html-telegraph-poster
 urbandict
 validators
