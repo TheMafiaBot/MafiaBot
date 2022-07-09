@@ -137,7 +137,7 @@
   },{
     "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
   },{
-    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
+    "url": "https://github.com/Keshavop16/heroku-buildpack-p7zip"
   },{
     "url": "heroku/python"
   }]
